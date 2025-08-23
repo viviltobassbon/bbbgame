@@ -1,0 +1,9 @@
+{
+    "JktEnable": false,
+    "JktLang": ["Russian"],
+    "JktTime": ["Yekaterinburg"],
+    "JktLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
