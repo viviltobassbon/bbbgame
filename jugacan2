@@ -1,0 +1,9 @@
+{
+    "JugaCanEnable": false,
+    "JugaCanLang": ["Spanish"],
+    "JugaCanTimes": ["Buenos_Aires", "Argentina", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
+    "JugaCanLinks": 
+    [ 
+          { "Lang":"Spanish", "Links": ["https://1wfzws.life/casino/list?open=register&p=34jd"]}
+    ]
+ }
